@@ -12,3 +12,8 @@ Welcome to my data science repo.
 2. [**credit card customer segmentation**](https://github.com/Kalebferrer/data-science/tree/main/credit-card-segmentation) - segment credit card customers based on spend and attributes
 <br> **Description**: unsupervised machine learning algorithm - k means clustering
 <br>**Results**: Segmented the data into clusters and provide commentary on similar characteristics of each cluster to deploy targetted marketing strategies.
+<br> 
+
+3. [**predicting insurance costs**](https://github.com/Kalebferrer/data-science/tree/main/predicting-insurance-costs) - construct a predictive model for total medical insurance cost
+<br> **Description:** predict medical cost to allow hospitals to predict revenue and plan procedures needed by patient population - linear regression model
+<br> **Results**: regression coefficients of 'age', 'bmi', and 'is_smoker' and their efffects on charges
