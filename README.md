@@ -16,6 +16,10 @@ Welcome to my data science repo.
 <br> **Description:** predict medical cost to allow hospitals to predict revenue and plan procedures needed by patient population - linear regression model
 <br> **Results**: regression coefficients of 'age', 'bmi', and 'is_smoker' and their efffects on charges
 
-4. [**stochastic gradient descent**](https://github.com/Kalebferrer/data-science/tree/main/stochastic-gradient-descent) - predict best time to go to the gym to have no weight time on machines
+4. [**stochastic gradient descent**](https://github.com/Kalebferrer/data-science/tree/main/stochastic-gradient-descent) - predict best time to go to the gym to have no wait time on machines
 <br> **Description:**  60,000 observations gym dataset with timestamp, number of people and other determinent characteristics - stochastic gradient descent on linear regression
 <br> **Results**: Best time to go: 5-8 am on Saturdays, Fridays, Tuesdays. Busy times are around January (New Years) and August (school semester begins). ~9am, ~5pm, ~11pm are busiest times.
+
+5. [**logistic regression model in python**](https://github.com/Kalebferrer/data-science/tree/main/logistic-regression-model) - classify heart disease that uses logistic regression model
+<br> **Description:**  predict if a patient has heart disease by using a logistic regression classification model. [Data: Cleveland Clinic Foundation](https://archive.ics.uci.edu/dataset/45/heart+disease)
+<br> **Results**: Test accuracy 75%, sensitivty was 79% and specificity was 72%.
