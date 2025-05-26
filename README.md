@@ -23,3 +23,7 @@ Welcome to my data science repo.
 5. [**logistic regression model in python**](https://github.com/Kalebferrer/data-science/tree/main/logistic-regression-model) - classify heart disease that uses logistic regression model
 <br> **Description:**  predict if a patient has heart disease by using a logistic regression classification model. [Data: Cleveland Clinic Foundation](https://archive.ics.uci.edu/dataset/45/heart+disease)
 <br> **Results**: Test accuracy 75%, sensitivty was 79% and specificity was 72%.
+
+6. [**decision tree and random forest model**](https://github.com/Kalebferrer/data-science/tree/main/decision-tree-model) - predict productivity performance of working teams.
+<br> **Description:**  find features that help increase employee productivity. [Data: UCI Machine Learning repository](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
+<br> **Results**: Increasing incentives would help boost productivity as it plays a vital role and was found to be the root of every tree we produced.
