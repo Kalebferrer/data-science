@@ -25,5 +25,9 @@ Welcome to my data science repo.
 <br> **Results**: Test accuracy 75%, sensitivty was 79% and specificity was 72%.
 
 6. [**decision tree and random forest model**](https://github.com/Kalebferrer/data-science/tree/main/decision-tree-model) - predict productivity performance of working teams.
-<br> **Description:**  find features that help increase employee productivity. [Data: UCI Machine Learning repository](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
+<br> **Description:**  find features that help increase employee productivity. [Data: UCI Machine Learning repository - garment production](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
 <br> **Results**: Increasing incentives would help boost productivity as it plays a vital role and was found to be the root of every tree we produced.
+
+7. [**optimizing ml models**](https://github.com/Kalebferrer/data-science/tree/main/optimizing-ml-models) - machine learning optimization tasks to improve/optimize a model to predict the extent of fire damage to a forest
+<br> **Description:**  Walk through tasks for optimizing ML models (Feature engineering, model selection, cross validation, regularization).  [Data: UCI Machine Learning repository - forest fires](https://archive.ics.uci.edu/dataset/162/forest+fires)
+<br> **Results**: Among candidate models, the backward selection using two features performs best, with an average MSE of -2.17. However, it's on log-scale so this suggest that predictions are off by a magnitude of 2. On the surface, this suggests that the models are not good predictors. However This problem is known to be a difficult one. The extreme skew in the outcome hurts many of the assumptions needed by linear models. This demonstrates that machine learning is not a universal fix and that several problems in data science have chararateristics that makes prediction difficult.
